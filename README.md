@@ -6,6 +6,8 @@
 
 ## Ελληνικά
 
+**Νέα στην 0.14.0:** ενιαίος έλεγχος αρχείων και προορισμών, γρήγορη επιλογή υποφακέλων με αγαπημένα και πρόσφατους προορισμούς, συνέχιση προηγούμενης προεπισκόπησης και τοπικά αντίγραφα ρυθμίσεων και ιστορικού. Οι λειτουργίες οργάνωσης καλύπτουν τοπικά αρχεία, Google Drive και OneDrive. Ο οδηγός περιλαμβάνει 15 κεφάλαια και 24 βοηθήματα.
+
 Εδώ διατίθενται οι εγκαταστάτες MSI, οι υπογραφές ενημέρωσης και τα manifests του FileNest. Ο πηγαίος κώδικας παραμένει ιδιωτικός. Τα αυτόματα **Source code ZIP/TAR** του GitHub περιέχουν μόνο αυτό το αποθετήριο διανομής.
 
 Για εγκατάσταση, άνοιξε την [τελευταία δημοσιευμένη έκδοση](https://github.com/alobar-dim/FileNest-Releases/releases/latest) και διάλεξε από τα **Assets**:
@@ -22,6 +24,8 @@
 Τα πακέτα διαθέτουν κρυπτογραφική υπογραφή ενημέρωσης FileNest. Το πιστοποιητικό **Windows Authenticode** εκκρεμεί ακόμη: τα Windows μπορεί να εμφανίσουν προειδοποίηση άγνωστου εκδότη ή να ζητήσουν έγκριση διαχειριστή. Η υπογραφή ενημέρωσης και το πιστοποιητικό εκδότη Windows είναι διαφορετικοί έλεγχοι. Οι αναφορές επαλήθευσης και οι τιμές SHA-256 συνοδεύουν κάθε έκδοση.
 
 ## English
+
+**New in 0.14.0:** unified contents and destination review, fast subfolder browsing with favorite and recent destinations, resume the last preview, and local recovery snapshots of preferences and history. Organization supports local files, Google Drive and OneDrive. The guide includes 15 chapters and 24 contextual hints.
 
 This repository distributes FileNest MSI installers, update signatures and manifests. The application source code is private. GitHub's automatic **Source code ZIP/TAR** downloads contain only this distribution repository.
 
